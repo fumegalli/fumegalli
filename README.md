@@ -22,3 +22,9 @@ Aqui é onde eu compartilho alguns projetos pessoais e também onde eu documento
 
 ![Docker](	https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1E90FF?style=for-the-badge&logo=Kubernetes&logoColor=white)
+
+
+## Atividade Recente:
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

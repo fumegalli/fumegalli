@@ -24,7 +24,7 @@ Aqui é onde eu compartilho alguns projetos pessoais e também onde eu documento
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1E90FF?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
 
-## Atividade Recente:
+## ⚡ Atividade Recente:
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->

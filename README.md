@@ -27,4 +27,9 @@ Aqui é onde eu compartilho alguns projetos pessoais e também onde eu documento
 ## ⚡ Atividade Recente:
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/fumegalli/ecoleta-mobile/pull/3) in [fumegalli/ecoleta-mobile](https://github.com/fumegalli/ecoleta-mobile)
+2. 🎉 Merged PR [#6](https://github.com/fumegalli/tindev/pull/6) in [fumegalli/tindev](https://github.com/fumegalli/tindev)
+3. 🎉 Merged PR [#7](https://github.com/fumegalli/tindev/pull/7) in [fumegalli/tindev](https://github.com/fumegalli/tindev)
+4. 🎉 Merged PR [#7](https://github.com/fumegalli/AirBnB/pull/7) in [fumegalli/AirBnB](https://github.com/fumegalli/AirBnB)
+5. 🎉 Merged PR [#4](https://github.com/fumegalli/meetapp-api/pull/4) in [fumegalli/meetapp-api](https://github.com/fumegalli/meetapp-api)
 <!--END_SECTION:activity-->

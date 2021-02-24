@@ -28,9 +28,9 @@ Aqui é onde eu compartilho alguns projetos pessoais e também onde eu documento
 # ⚡ Atividade Recente:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/fumegalli/fumegalli/pull/1) in [fumegalli/fumegalli](https://github.com/fumegalli/fumegalli)
-2. 💪 Opened PR [#1](https://github.com/fumegalli/fumegalli/pull/1) in [fumegalli/fumegalli](https://github.com/fumegalli/fumegalli)
-3. 🎉 Merged PR [#3](https://github.com/fumegalli/ecoleta-mobile/pull/3) in [fumegalli/ecoleta-mobile](https://github.com/fumegalli/ecoleta-mobile)
-4. 🎉 Merged PR [#6](https://github.com/fumegalli/tindev/pull/6) in [fumegalli/tindev](https://github.com/fumegalli/tindev)
-5. 🎉 Merged PR [#7](https://github.com/fumegalli/tindev/pull/7) in [fumegalli/tindev](https://github.com/fumegalli/tindev)
+1. 🎉 Merged PR [#11](https://github.com/fumegalli/tindev/pull/11) in [fumegalli/tindev](https://github.com/fumegalli/tindev)
+2. 🎉 Merged PR [#6](https://github.com/fumegalli/meetapp-api/pull/6) in [fumegalli/meetapp-api](https://github.com/fumegalli/meetapp-api)
+3. 🎉 Merged PR [#9](https://github.com/fumegalli/AirBnB/pull/9) in [fumegalli/AirBnB](https://github.com/fumegalli/AirBnB)
+4. 🎉 Merged PR [#1](https://github.com/fumegalli/fumegalli/pull/1) in [fumegalli/fumegalli](https://github.com/fumegalli/fumegalli)
+5. 💪 Opened PR [#1](https://github.com/fumegalli/fumegalli/pull/1) in [fumegalli/fumegalli](https://github.com/fumegalli/fumegalli)
 <!--END_SECTION:activity-->

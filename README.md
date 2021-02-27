@@ -28,9 +28,9 @@ Aqui é onde eu compartilho alguns projetos pessoais e também onde eu documento
 # ⚡ Atividade Recente:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/fumegalli/nlw04/pull/2) in [fumegalli/nlw04](https://github.com/fumegalli/nlw04)
-2. 💪 Opened PR [#2](https://github.com/fumegalli/nlw04/pull/2) in [fumegalli/nlw04](https://github.com/fumegalli/nlw04)
-3. 🎉 Merged PR [#1](https://github.com/fumegalli/nlw04/pull/1) in [fumegalli/nlw04](https://github.com/fumegalli/nlw04)
-4. 💪 Opened PR [#1](https://github.com/fumegalli/nlw04/pull/1) in [fumegalli/nlw04](https://github.com/fumegalli/nlw04)
-5. 🎉 Merged PR [#11](https://github.com/fumegalli/tindev/pull/11) in [fumegalli/tindev](https://github.com/fumegalli/tindev)
+1. ❗️ Opened issue [#8](https://github.com/fumegalli/nlw04/issues/8) in [fumegalli/nlw04](https://github.com/fumegalli/nlw04)
+2. ❗️ Opened issue [#7](https://github.com/fumegalli/nlw04/issues/7) in [fumegalli/nlw04](https://github.com/fumegalli/nlw04)
+3. ❗️ Opened issue [#6](https://github.com/fumegalli/nlw04/issues/6) in [fumegalli/nlw04](https://github.com/fumegalli/nlw04)
+4. ❗️ Opened issue [#5](https://github.com/fumegalli/nlw04/issues/5) in [fumegalli/nlw04](https://github.com/fumegalli/nlw04)
+5. 🎉 Merged PR [#4](https://github.com/fumegalli/nlw04/pull/4) in [fumegalli/nlw04](https://github.com/fumegalli/nlw04)
 <!--END_SECTION:activity-->

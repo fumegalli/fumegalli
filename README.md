@@ -28,9 +28,9 @@ Aqui é onde eu compartilho alguns projetos pessoais e também onde eu documento
 # ⚡ Atividade Recente:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/fumegalli/nlw04/issues/8) in [fumegalli/nlw04](https://github.com/fumegalli/nlw04)
-2. 🎉 Merged PR [#12](https://github.com/fumegalli/nlw04/pull/12) in [fumegalli/nlw04](https://github.com/fumegalli/nlw04)
-3. 💪 Opened PR [#12](https://github.com/fumegalli/nlw04/pull/12) in [fumegalli/nlw04](https://github.com/fumegalli/nlw04)
-4. 🎉 Merged PR [#11](https://github.com/fumegalli/nlw04/pull/11) in [fumegalli/nlw04](https://github.com/fumegalli/nlw04)
-5. ❗️ Closed issue [#7](https://github.com/fumegalli/nlw04/issues/7) in [fumegalli/nlw04](https://github.com/fumegalli/nlw04)
+1. 🎉 Merged PR [#3](https://github.com/fumegalli/very-useful-tools-to-remember/pull/3) in [fumegalli/very-useful-tools-to-remember](https://github.com/fumegalli/very-useful-tools-to-remember)
+2. 💪 Opened PR [#3](https://github.com/fumegalli/very-useful-tools-to-remember/pull/3) in [fumegalli/very-useful-tools-to-remember](https://github.com/fumegalli/very-useful-tools-to-remember)
+3. 🎉 Merged PR [#2](https://github.com/fumegalli/very-useful-tools-to-remember/pull/2) in [fumegalli/very-useful-tools-to-remember](https://github.com/fumegalli/very-useful-tools-to-remember)
+4. 💪 Opened PR [#2](https://github.com/fumegalli/very-useful-tools-to-remember/pull/2) in [fumegalli/very-useful-tools-to-remember](https://github.com/fumegalli/very-useful-tools-to-remember)
+5. 🎉 Merged PR [#1](https://github.com/fumegalli/very-useful-tools-to-remember/pull/1) in [fumegalli/very-useful-tools-to-remember](https://github.com/fumegalli/very-useful-tools-to-remember)
 <!--END_SECTION:activity-->

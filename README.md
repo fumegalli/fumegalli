@@ -28,9 +28,9 @@ Aqui é onde eu compartilho alguns projetos pessoais e também onde eu documento
 # ⚡ Atividade Recente:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/fumegalli/very-useful-tools-to-remember/pull/8) in [fumegalli/very-useful-tools-to-remember](https://github.com/fumegalli/very-useful-tools-to-remember)
-2. 💪 Opened PR [#8](https://github.com/fumegalli/very-useful-tools-to-remember/pull/8) in [fumegalli/very-useful-tools-to-remember](https://github.com/fumegalli/very-useful-tools-to-remember)
-3. 🎉 Merged PR [#7](https://github.com/fumegalli/very-useful-tools-to-remember/pull/7) in [fumegalli/very-useful-tools-to-remember](https://github.com/fumegalli/very-useful-tools-to-remember)
-4. 💪 Opened PR [#7](https://github.com/fumegalli/very-useful-tools-to-remember/pull/7) in [fumegalli/very-useful-tools-to-remember](https://github.com/fumegalli/very-useful-tools-to-remember)
-5. 🎉 Merged PR [#6](https://github.com/fumegalli/very-useful-tools-to-remember/pull/6) in [fumegalli/very-useful-tools-to-remember](https://github.com/fumegalli/very-useful-tools-to-remember)
+1. 🎉 Merged PR [#13](https://github.com/fumegalli/very-useful-tools-to-remember/pull/13) in [fumegalli/very-useful-tools-to-remember](https://github.com/fumegalli/very-useful-tools-to-remember)
+2. ❗️ Closed issue [#12](https://github.com/fumegalli/very-useful-tools-to-remember/issues/12) in [fumegalli/very-useful-tools-to-remember](https://github.com/fumegalli/very-useful-tools-to-remember)
+3. 💪 Opened PR [#13](https://github.com/fumegalli/very-useful-tools-to-remember/pull/13) in [fumegalli/very-useful-tools-to-remember](https://github.com/fumegalli/very-useful-tools-to-remember)
+4. 🗣 Commented on [#11](https://github.com/fumegalli/very-useful-tools-to-remember/issues/11) in [fumegalli/very-useful-tools-to-remember](https://github.com/fumegalli/very-useful-tools-to-remember)
+5. ❗️ Opened issue [#12](https://github.com/fumegalli/very-useful-tools-to-remember/issues/12) in [fumegalli/very-useful-tools-to-remember](https://github.com/fumegalli/very-useful-tools-to-remember)
 <!--END_SECTION:activity-->

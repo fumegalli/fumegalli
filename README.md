@@ -5,5 +5,5 @@ Software engineer with 5 years of experience in building robust and scalable app
 - :computer: Currently working as a Software Engineer using Node, Javascript, Typescript and Java.
 - :books: Currently learning about System Design, Data Structure and Algorithms.
 - :mortar_board: Graduated in Computer Science at Unisinos, Brazil.
-- :soccer: I know way more about soccer than I probably need to.
+- :soccer: I enjoy playing/watching soccer.
 - :mailbox_with_mail: Reach me at [LinkedIn](https://www.linkedin.com/in/rafael-fumegalli/).
